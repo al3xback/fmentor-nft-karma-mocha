@@ -13,7 +13,7 @@ const getBodyContent = () => {
 								width="302"
 								height="302"
 								src="./images/equilibrium.jpg"
-								alt="" />
+								alt="Equilibrium" />
 						</div>
 						<div class="card__content">
 							<h2 class="card__title">
